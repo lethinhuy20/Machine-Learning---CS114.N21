@@ -1,9 +1,10 @@
 ![alt](https://www.uit.edu.vn/sites/vi/files/banner_uit.png)
 # Machine-Learning---CS114.N21
 ĐỒ ÁN  VỀ BÀI TOÁN TRÍCH XUẤT VĂN BẢN TỪ  HÌNH ẢNH  TÀI LIỆU GIẤY
-
-## Giảng viên: Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
-## Nhóm sinh viên thực hiện:
+- Tên môn học : Máy học
+- Lớp : CS114.N21
+### Giảng viên: Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+# Nhóm sinh viên thực hiện:
 #### Nhóm Minions
 - Trần Đức Huy - 20521414 - 20521414@gm.uit.edu.vn
 - Nguyễn Thị Thùy - 21521514 - Thuynguyen28102003@gmail.com
