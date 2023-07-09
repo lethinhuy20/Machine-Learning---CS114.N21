@@ -3,7 +3,7 @@
 ĐỒ ÁN  VỀ BÀI TOÁN TRÍCH XUẤT VĂN BẢN TỪ  HÌNH ẢNH  TÀI LIỆU GIẤY
 - Tên môn học : Máy học
 - Lớp : CS114.N21
-### Giảng viên: Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+## Giảng viên: Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 # Nhóm sinh viên thực hiện:
 ## Nhóm Minions
 - Trần Đức Huy - 20521414 - 20521414@gm.uit.edu.vn
