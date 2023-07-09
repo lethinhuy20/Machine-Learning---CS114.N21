@@ -5,7 +5,7 @@
 - Lớp : CS114.N21
 ### Giảng viên: Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 # Nhóm sinh viên thực hiện:
-#### Nhóm Minions
+## Nhóm Minions
 - Trần Đức Huy - 20521414 - 20521414@gm.uit.edu.vn
 - Nguyễn Thị Thùy - 21521514 - Thuynguyen28102003@gmail.com
 - Lê Minh Quân - 20520709 - 20520709@gm.uit.edu.vn
